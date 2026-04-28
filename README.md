@@ -61,23 +61,12 @@ Multithreading, and a custom Swing GUI.
 
 ## Screenshots
 
-### Login Screen
-![Login Screen](screenshots/Screenshot 1 (login).png)
-
-### Manager Dashboard
-![Manager Dashboard](screenshots/Screenshot 2 (manger dashboard).png)
-
-### Production Lines
-![Production](screenshots/Screenshot 5 (manger Dashboard).png)
-
-### Supervisor Dashboard
-![Supervisor Dashboard](screenshots/Screenshot 3 (SupervisorDashboard).png)
-
-### Users Dashboard 
-![Users Dashboard](screenshots/Screenshot 6 (users manger).png)
-
-### Reprts Dashboard
-![Reports Dashboard](screenshots/Screenshot 4 (SupervisorDashboard).png)
+![Login](screenshots/Screenshot%201%20(login).png)
+![Manager Dashboard](screenshots/Screenshot%202%20(manger%20dashboard).png)
+![Supervisor Dashboard](screenshots/Screenshot%203%20(SupervisorDashboard).png)
+![Supervisor Dashboard 2](screenshots/Screenshot%204%20(SupervisorDashboard).png)
+![Manager Dashboard 2](screenshots/Screenshot%205%20(manger%20Dashboard).png)
+![User Management](screenshots/Screenshot%206%20(users%20manger).png)
  
 ---
 
