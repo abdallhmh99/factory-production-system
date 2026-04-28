@@ -1,0 +1,16 @@
+[2026-01-25 18:40:18] ERROR: Line a Interrupted: sleep interrupted
+[2026-01-25 18:41:06] ERROR: Line a Interrupted: sleep interrupted
+[2026-01-25 18:43:12] ERROR: Line a Interrupted: sleep interrupted
+[2026-01-25 18:43:24] ERROR: Line b Interrupted: sleep interrupted
+[2026-01-25 19:04:03] ERROR: Line a Interrupted: sleep interrupted
+[2026-01-25 19:04:19] ERROR: Line a Interrupted: sleep interrupted
+[2026-01-25 20:55:43] ERROR: Line General Assembly E Interrupted: sleep interrupted
+[2026-01-25 20:56:08] ERROR: Line Textile Production C Interrupted: sleep interrupted
+[2026-01-25 21:04:50] ERROR: Line a Interrupted: sleep interrupted
+[2026-01-25 21:24:11] ERROR: Line a Interrupted: sleep interrupted
+[2026-01-25 21:46:46] ERROR: Warning: Failed to load data from inventory\Product_Lines.ser (File might be missing or corrupted).
+[2026-01-25 21:46:46] ERROR: Warning: Failed to load data from inventory\Task.ser (File might be missing or corrupted).
+[2026-01-25 23:35:49] ERROR: Critical: Failed to save data to inventory\Items.ser - inventory\Items.ser (The system cannot find the path specified)
+[2026-01-25 23:35:49] ERROR: Critical: Failed to save data to inventory\Product.ser - inventory\Product.ser (The system cannot find the path specified)
+[2026-01-25 23:35:49] ERROR: Critical: Failed to save data to inventory\Product_Lines.ser - inventory\Product_Lines.ser (The system cannot find the path specified)
+[2026-01-25 23:35:49] ERROR: Critical: Failed to save data to inventory\Task.ser - inventory\Task.ser (The system cannot find the path specified)
